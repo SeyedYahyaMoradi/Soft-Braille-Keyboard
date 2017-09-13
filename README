@@ -6,22 +6,11 @@ faster and more comfortable input for the blind on Android with a
 variety of powerful editing commands and support for a number of
 different languages.
 
-Please see https://goo.gl/lD1v49 for more details on the project.
-
-If you are interested in becoming involved with any development or have questions please
-contact Daniel Dalton <daniel.dalton10@gmail.com>
-
-Please see the TODO file in this directory for a list of things that
-need attention.
-
 This application is licensed under the Apache License, Version 2.0 (the "License");
 You may obtain a copy of the License at
 http://www.apache.org/licenses/LICENSE-2.0
 
 BUILDING THE APP
-
-You can checkout sbk as follows:
-git clone git@bitbucket.org:daniel_dalton10/soft-braille-keyboard.git
 
 To build the app you will need a few things. 
 * Checkout Android Brailleback
